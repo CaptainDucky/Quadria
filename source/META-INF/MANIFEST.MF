@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libraries/LWJGL/lwjgl/jar/lwjgl.jar
+Main-Class: cz.mrPizzaCake.quadria.Main
+
